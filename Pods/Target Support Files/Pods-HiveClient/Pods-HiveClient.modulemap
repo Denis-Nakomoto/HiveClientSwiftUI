@@ -1,0 +1,6 @@
+module Pods_HiveClient {
+  umbrella header "Pods-HiveClient-umbrella.h"
+
+  export *
+  module * { export * }
+}
